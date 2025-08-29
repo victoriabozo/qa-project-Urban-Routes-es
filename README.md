@@ -1,4 +1,4 @@
-# Proyecto Urban Routes - Sprint 8
+# Automatización Urban Routes - Sprint 8
 Este proyecto automatiza la validación del flujo completo de reserva de un taxi dentro de la aplicación *Urban Routes*, conforme a los requisitos funcionales establecidos para el Sprint 8. Las pruebas simulan interacciones reales del usuario, desde la selección de la ruta hasta la confirmación del pedido, e incluye configuraciones adicionales.
 
 ## Tecnologías y técnicas utilizadas
