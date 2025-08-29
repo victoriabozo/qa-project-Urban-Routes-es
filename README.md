@@ -4,8 +4,8 @@ Este proyecto automatiza la validación del flujo completo de reserva de un taxi
 ## Tecnologías y técnicas utilizadas
 - Python como lenguaje.
 - Selenium WebDriver para automatización de interfaz gráfica (UI).
-- PyCharm para ejecutar las pruebas.
 - pytest como framework de pruebas.
+- Page Object Model (POM) para estructuración y mantenimiento del código.
 - Google Chrome como navegador. 
 - Técnicas de localización por XPATH, CSS Selectors, ID y Class Name.
 - WebDriverWait y Expected Conditions para sincronización controlada.
